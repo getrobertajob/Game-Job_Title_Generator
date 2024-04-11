@@ -6,5 +6,6 @@ Windows Batch script to pick a funny job title for the user.
 3) The other as a type of job like "Doctor" or "Zoo Keeper".
 4) It picks a random location of each list and saves that to a variable.
 5) Then displays the results to the user as a combo Job Title like "Drunk Doctor".
-6) Finally it prompts the user to pick a new job title.
-7) Or to accept results.
+6) Results are presented in the command prompt.
+7) Finally it prompts the user to pick a new job title.
+8) Or to accept results.
